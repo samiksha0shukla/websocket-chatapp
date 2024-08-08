@@ -38,7 +38,7 @@ Build the Docker image:
     ```bash
    docker run -p 3000:3000 chat_app
    ```
-### ## Hosting and Dockerization
+### Hosting and Dockerization
 
 Hosted the chat app on an EC2 instance. Installed Docker on an Ubuntu server, pulled the Docker image, and ran it to deploy the application.
 
